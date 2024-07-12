@@ -66,3 +66,4 @@ C:\Users\system solution\Desktop\RealTimeAppMicroservices\Product.API\obj\Debug\
 C:\Users\system solution\Desktop\RealTimeAppMicroservices\Product.API\obj\Debug\net6.0\Product.API.pdb
 C:\Users\system solution\Desktop\RealTimeAppMicroservices\Product.API\obj\Debug\net6.0\Product.API.genruntimeconfig.cache
 C:\Users\system solution\Desktop\RealTimeAppMicroservices\Product.API\obj\Debug\net6.0\ref\Product.API.dll
+C:\Users\system solution\Desktop\RealTimeAppMicroservices\Product.API\obj\Debug\net6.0\Product.API.sourcelink.json
