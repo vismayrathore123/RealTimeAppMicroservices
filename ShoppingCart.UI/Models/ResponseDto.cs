@@ -1,4 +1,4 @@
-﻿namespace ShoppingCart.UI.Models
+﻿namespace ShoppingCart.UI.Models;
 
 public class ResponseDto
 {
