@@ -5,11 +5,13 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Microservices", "Microservices", "{836AB28F-7BD4-4564-8837-E5720E37D487}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product.API", "Product.API\Product.API.csproj", "{33891930-B430-470D-B861-5D56117273FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Product.API", "Product.API\Product.API.csproj", "{33891930-B430-470D-B861-5D56117273FA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UIProject", "UIProject", "{D0644CE6-8801-4BC8-B07C-8DBD27180700}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCart.UI", "ShoppingCart.UI\ShoppingCart.UI.csproj", "{0EB28849-9315-4578-B7EF-F949E5BCA491}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoppingCart.UI", "ShoppingCart.UI\ShoppingCart.UI.csproj", "{0EB28849-9315-4578-B7EF-F949E5BCA491}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identity", "Identity\Identity.csproj", "{1CC1E650-5CC5-47D9-8E5B-EC89A8CB0E73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +27,10 @@ Global
 		{0EB28849-9315-4578-B7EF-F949E5BCA491}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EB28849-9315-4578-B7EF-F949E5BCA491}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EB28849-9315-4578-B7EF-F949E5BCA491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CC1E650-5CC5-47D9-8E5B-EC89A8CB0E73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CC1E650-5CC5-47D9-8E5B-EC89A8CB0E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CC1E650-5CC5-47D9-8E5B-EC89A8CB0E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CC1E650-5CC5-47D9-8E5B-EC89A8CB0E73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +38,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{33891930-B430-470D-B861-5D56117273FA} = {836AB28F-7BD4-4564-8837-E5720E37D487}
 		{0EB28849-9315-4578-B7EF-F949E5BCA491} = {D0644CE6-8801-4BC8-B07C-8DBD27180700}
+		{1CC1E650-5CC5-47D9-8E5B-EC89A8CB0E73} = {836AB28F-7BD4-4564-8837-E5720E37D487}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ED8D890B-DDB0-474F-8391-736D2642E582}
